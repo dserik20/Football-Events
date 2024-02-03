@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Esports Event</string>
+    <string name="channel_name">Match Start Notifications</string>
+    <string name="channel_description">Notifications for matches that are about to start</string>
+</resources>
